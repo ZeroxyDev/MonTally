@@ -84,12 +84,8 @@ Feel free to contribute to the project with suggestions, or ideas!
 Preview of `MonTally`:
 
 
-  <a href="https://github.com/ZeroxyDev/montally">
-    <img src="https://i.ibb.co/6RGP4LN/1.png" alt="Logo" height="200">
-  </a>
-    <a href="https://github.com/ZeroxyDev/montally">
-    <img src="https://i.ibb.co/p3BrvdK/Grupo-1.png" alt="Logo" height="200">
-  </a>
+  <span><img src="https://i.ibb.co/6RGP4LN/1.png" alt="Logo" height="200"></span>
+  <span><img src="https://i.ibb.co/p3BrvdK/Grupo-1.png" alt="Logo" height="200"></span>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
