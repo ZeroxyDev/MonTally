@@ -88,7 +88,7 @@ Preview of `MonTally`:
     <img src="https://i.ibb.co/6RGP4LN/1.png" alt="Logo" height="200">
   </a>
     <a href="https://github.com/ZeroxyDev/montally">
-    <img src="https://i.ibb.co/YbstSBr/2.png" alt="Logo" height="200">
+    <img src="https://i.ibb.co/p3BrvdK/Grupo-1.png" alt="Logo" height="200">
   </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
