@@ -20,7 +20,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![Apache License 2.0][license-shield]][license-url]
 
 
 
@@ -173,7 +173,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the Apache License 2.0 License. See `LICENSE` for more information.
+Distributed under the Apache License 2.0 License. See `LICENSE.md` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -217,7 +217,7 @@ Project Link: [https://github.com/ZeroxyDev/montally](https://github.com/ZeroxyD
 [issues-shield]: https://img.shields.io/github/issues/ZeroxyDev/montally.svg?style=for-the-badge
 [issues-url]: https://github.com/ZeroxyDev/montally/issues
 [license-shield]: https://img.shields.io/github/license/ZeroxyDev/montally.svg?style=for-the-badge
-[license-url]: https://github.com/ZeroxyDev/montally/blob/main/LICENSE
+[license-url]: https://github.com/ZeroxyDev/montally/blob/main/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/zeroxydev
 [product-screenshot]: images/screenshot.png
