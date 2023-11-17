@@ -85,22 +85,10 @@ Preview of `MonTally`:
 
 
   <a href="https://github.com/ZeroxyDev/montally">
-    <img src="/src/assets/preview/setUsername.png" alt="Logo" height="500">
+    <img src="https://i.ibb.co/6RGP4LN/1.png" alt="Logo" height="200">
   </a>
     <a href="https://github.com/ZeroxyDev/montally">
-    <img src="/src/assets/preview/chatChats.png" alt="Logo" height="500">
-  </a>
-      <a href="https://github.com/ZeroxyDev/montally">
-    <img src="/src/assets/preview/chatPassword.png" alt="Logo" height="500">
-  </a>
-        <a href="https://github.com/ZeroxyDev/montally">
-    <img src="/src/assets/preview/chatCreation.png" alt="Logo" height="500">
-  </a>
-          <a href="https://github.com/ZeroxyDev/montally">
-    <img src="/src/assets/preview/chatWaitingStranger.png" alt="Logo" height="500">
-  </a>
-            <a href="https://github.com/ZeroxyDev/montally">
-    <img src="/src/assets/preview/chatAnon.png" alt="Logo" height="500">
+    <img src="https://i.ibb.co/YbstSBr/2.png" alt="Logo" height="200">
   </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
