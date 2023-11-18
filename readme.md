@@ -85,7 +85,9 @@ Preview of `MonTally`:
 
 
   <span><img src="https://i.ibb.co/6RGP4LN/1.png" alt="Logo" height="200"></span>
-  <span><img src="https://i.ibb.co/p3BrvdK/Grupo-1.png" alt="Logo" height="200"></span>
+  <span><img src="https://i.ibb.co/2NmTVFp/3.png" alt="Logo" height="200"></span>
+  <span><img src="https://i.ibb.co/7KFcXkw/2.png" alt="Logo" height="200"></span>
+  <span><img src="https://i.ibb.co/6Z56W2B/4.png" alt="Logo" height="200"></span>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -148,6 +150,12 @@ Key Features:
     - [x] Manual Mode: Users can choose specific Pokémon to track, providing more control.
 - [ ] Multi-language Support.
     - [ ] Spanish.
+- [x] Detailed Pokémon Information:
+    - Users can view comprehensive information about Pokémon by clicking on their names or images.
+    - Information includes shiny ratio, types, locations, statistics, capture rate in wild encounters, and more.
+- [x] Extreme Detection Mode:
+    - A new detection mode that offers heightened sensitivity for Pokémon detection.
+
 
 See the [open issues](https://github.com/ZeroxyDev/montally/issues) for a full list of proposed features (and known issues).
 
