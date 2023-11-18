@@ -123,6 +123,19 @@ MonTally is designed to be flexible and user-friendly. Here's a simple guide on 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+## Known Bugs
+
+Despite its robust functionality, MonTally may encounter certain issues. Here is a list of known bugs and possible solutions:
+
+1. **Issue:** Doesn't detect Pokémon on other screens.
+   - **Solution:** Play Pokémon on the main screen to ensure accurate detection.
+
+Please note that we are continuously working to improve the application and address these issues. If you come across any additional bugs, feel free to report them so that we can continue enhancing the MonTally experience.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
 
 <!-- ROADMAP -->
 ## Roadmap
