@@ -141,9 +141,17 @@ Despite its robust functionality, MonTally may encounter certain issues. Here is
    - **Description:** The MonTally application occasionally exhibits inaccurate counts, especially during initial usage. The counts may either be higher or lower than the actual number of Pokémon encountered.
    - **Solution:** Actively use the application; as more encounters are recorded, the counting accuracy tends to improve.
 
+3. **Issue:** Incorrect Hordes Count in PokeMMO
+   - **Description:** MonTally may sometimes miscount hordes in PokeMMO.
+   - **Solution:** If you notice incorrect counting for hordes, try the following:
+      - Close the MonTally program.
+      - Reopen the MonTally application.
+      - Encounter a horde as the first battle after reopening to ensure accurate counting.
+
 Please note that we are continuously working to improve the application and address these issues. If you come across any additional bugs, feel free to report them so that we can continue enhancing the MonTally experience.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
