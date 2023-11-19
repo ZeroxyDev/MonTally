@@ -132,9 +132,14 @@ Despite its robust functionality, MonTally may encounter certain issues. Here is
 1. **Issue:** Doesn't detect Pokémon on other screens.
    - **Solution:** Play Pokémon on the main screen to ensure accurate detection.
 
+2. **Issue:** Incorrect Pokémon Count
+   - **Description:** The MonTally application occasionally exhibits inaccurate counts, especially during initial usage. The counts may either be higher or lower than the actual number of Pokémon encountered.
+   - **Solution:** Actively use the application; as more encounters are recorded, the counting accuracy tends to improve.
+
 Please note that we are continuously working to improve the application and address these issues. If you come across any additional bugs, feel free to report them so that we can continue enhancing the MonTally experience.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
