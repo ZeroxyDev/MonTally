@@ -120,9 +120,14 @@ MonTally is designed to be flexible and user-friendly. Here's a simple guide on 
    - **Automatic Mode:** MonTally will effortlessly detect and log all encountered Pokémon automatically.
    - **Manual Mode:** Users can select specific Pokémon to track, providing more control over the counting process.
 3. Ensure that the game is running, and there are no obstructions blocking Pokémon names.
-4. Begin seamlessly counting and tracking your Pokémon encounters!
+4. For the best experience in games like PokeMMO, consider the following recommendation:
+   - Go to the game settings.
+   - Navigate to Interface settings.
+   - Enable "Always Show Battle HUD" to ensure MonTally can accurately detect and log Pokémon during battles.
+5. Begin seamlessly counting and tracking your Pokémon encounters!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 ## Known Bugs
