@@ -166,6 +166,7 @@ Key Features:
     - Information includes shiny ratio, types, locations, statistics, capture rate in wild encounters, and more.
 - [x] Extreme Detection Mode:
     - A new detection mode that offers heightened sensitivity for Pokémon detection.
+- [x] Auto-updates: Stay current with the latest features and improvements effortlessly.
 
 
 See the [open issues](https://github.com/ZeroxyDev/montally/issues) for a full list of proposed features (and known issues).
