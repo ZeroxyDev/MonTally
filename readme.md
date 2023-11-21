@@ -31,7 +31,7 @@
     <img src="https://i.ibb.co/hF33Hzs/Square310x310-Logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">MontTally | Pokémon encounter counter with shiny odds.</h3>
+  <h3 align="center">MonTally | Pokémon encounter counter with shiny odds.</h3>
 
   <p align="center">
     PokéMMO & Pokémon Revolution Online Encounter Counter: Simplifying your Pokémon counting experience across both platforms.
