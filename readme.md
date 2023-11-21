@@ -106,7 +106,7 @@ Preview of `MonTally`:
 3. Open your PokéMMO or Pokémon Revolution Online game.
 4. Ensure that you are using Windows 10 or a later version.
 
-When running the installer of MonTally application, you may encounter a message indicating that the application is not signed. This is a common occurrence for unsigned software. Follow these steps to proceed securely:
+When running the installer of MonTally application, you may encounter a message indicating that the **application is not signed**. This is a common occurrence for unsigned software. Follow these steps to proceed securely:
 
 1. Upon seeing the "application not signed" message, click on "More Info."
 2. Look for the option that allows you to continue or run the application despite the lack of a digital signature.
