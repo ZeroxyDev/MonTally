@@ -166,6 +166,10 @@ Please note that we are continuously working to improve the application and addr
 Key Features:
 - [x] Pokémon encounter tracking.
 - [x] Shiny odds estimation.
+- [x] Versatile Scenario Detection.
+    - [x] Individual encounters.
+    - [x] Double encounters.
+    - [x] Hordes encounters.
 - [x] Compatibility with both PokéMMO and Pokémon Revolution Online.
 - [x] User-selectable Detection Modes:
     - [x] Automatic Mode: MonTally detects and logs encountered Pokémon automatically.
@@ -176,7 +180,7 @@ Key Features:
     - Users can view comprehensive information about Pokémon by clicking on their names or images.
     - Information includes shiny ratio, types, locations, statistics, capture rate in wild encounters, and more.
 - [x] Extreme Detection Mode:
-    - A new detection mode that offers heightened sensitivity for Pokémon detection.
+    - Experience heightened sensitivity for Pokémon detection with the Extreme Detection Mode, ensuring accuracy in various gameplay scenarios.
 - [x] Auto-updates: Stay current with the latest features and improvements effortlessly.
 
 
