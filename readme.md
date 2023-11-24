@@ -182,6 +182,20 @@ Key Features:
 - [x] Extreme Detection Mode:
     - Experience heightened sensitivity for Pokémon detection with the Extreme Detection Mode, ensuring accuracy in various gameplay scenarios.
 - [x] Auto-updates: Stay current with the latest features and improvements effortlessly.
+- [x] Turbo Mode:
+    - Turbo mode added for enhanced performance.
+- [x] Debug Mode:
+    - Debug mode added for easier issue identification.
+- [x] ON/OFF Mode:
+    - ON/OFF mode introduced for customizable functionality.
+- [x] Reset Counters:
+    - Reset counters for each Pokémon upon opening.
+    - Persistent Shiny ratio in each Pokémon (unless the general counter is reset).
+- [x] General Counter Reset:
+    - General counter reset option, resetting all statistics.
+- [x] Pokémon Image Options:
+    - Added the option to use Pokémon images locally or from the API.
+
 
 
 See the [open issues](https://github.com/ZeroxyDev/montally/issues) for a full list of proposed features (and known issues).
