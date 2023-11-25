@@ -167,34 +167,34 @@ Key Features:
 - [x] Pokémon encounter tracking.
 - [x] Shiny odds estimation.
 - [x] Versatile Scenario Detection.
-    - [x] Individual encounters.
-    - [x] Double encounters.
-    - [x] Hordes encounters.
+  - [x] Individual encounters.
+  - [x] Double encounters.
+  - [x] Hordes encounters.
 - [x] Compatibility with both PokéMMO and Pokémon Revolution Online.
 - [x] User-selectable Detection Modes:
-    - [x] Automatic Mode: MonTally detects and logs encountered Pokémon automatically.
-    - [x] Manual Mode: Users can choose specific Pokémon to track, providing more control.
+  - [x] Automatic Mode: MonTally detects and logs encountered Pokémon automatically.
+  - [x] Manual Mode: Users can choose specific Pokémon to track, providing more control.
 - [ ] Multi-language Support.
-    - [ ] Spanish.
+  - [ ] Spanish.
 - [x] Detailed Pokémon Information:
-    - Users can view comprehensive information about Pokémon by clicking on their names or images.
-    - Information includes shiny ratio, types, locations, statistics, capture rate in wild encounters, and more.
+  - [x] Users can view comprehensive information about Pokémon by clicking on their names or images.
+  - [x] Information includes shiny ratio, types, locations, statistics, capture rate in wild encounters, and more.
 - [x] Extreme Detection Mode:
-    - Experience heightened sensitivity for Pokémon detection with the Extreme Detection Mode, ensuring accuracy in various gameplay scenarios.
+  - [x] Experience heightened sensitivity for Pokémon detection with the Extreme Detection Mode, ensuring accuracy in various gameplay scenarios.
 - [x] Auto-updates: Stay current with the latest features and improvements effortlessly.
 - [x] Turbo Mode:
-    - Turbo mode added for enhanced performance.
+  - [x] Turbo mode added for enhanced performance.
 - [x] Debug Mode:
-    - Debug mode added for easier issue identification.
+  - [x] Debug mode added for easier issue identification.
 - [x] ON/OFF Mode:
-    - ON/OFF mode introduced for customizable functionality.
+  - [x] ON/OFF mode introduced for customizable functionality.
 - [x] Reset Counters:
-    - Reset counters for each Pokémon upon opening.
-    - Persistent Shiny ratio in each Pokémon (unless the general counter is reset).
+  - [x] Reset counters for each Pokémon upon opening.
+  - [x] Persistent Shiny ratio in each Pokémon (unless the general counter is reset).
 - [x] General Counter Reset:
-    - General counter reset option, resetting all statistics.
+  - [x] General counter reset option, resetting all statistics.
 - [x] Pokémon Image Options:
-    - Added the option to use Pokémon images locally or from the API.
+  - [x] Added the option to use Pokémon images locally or from the API.
 
 
 
