@@ -247,6 +247,9 @@ Project Link: [https://github.com/ZeroxyDev/montally](https://github.com/ZeroxyD
 * [GitHub Pages](https://pages.github.com)
 * [Font Awesome](https://fontawesome.com)
 * [React Icons](https://react-icons.github.io/react-icons/search)
+* [PokeAPI](https://github.com/PokeAPI/pokeapi)
+* [Bulbagarden](https://archives.bulbagarden.net/wiki/Category:Shuffle_icons)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
