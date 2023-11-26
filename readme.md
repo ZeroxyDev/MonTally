@@ -1,4 +1,5 @@
 <a name="readme-top"></a>
+
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull requestMontTally
@@ -7,8 +8,6 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -16,13 +15,12 @@
 *** See the bottom of this document for the declaration of the reference variables
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 -->
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![Apache License 2.0][license-shield]][license-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -41,8 +39,6 @@
     <a href="https://github.com/ZeroxyDev/montally/issues">Request Feature</a>
   </p>
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -70,12 +66,9 @@
   </ol>
 </details>
 
-
-
-
 <!-- ABOUT THE PROJECT -->
-## About The Project
 
+## About The Project
 
 MonTally allows you to keep track of your Pokémon encounters and provides an estimate of shiny odds. Whether you're playing PokéMMO or Pokémon Revolution Online, MonTally simplifies the counting experience.
 
@@ -83,21 +76,20 @@ Feel free to contribute to the project with suggestions, or ideas!
 
 Preview of `MonTally`:
 
-
-  <span><img src="https://i.ibb.co/6RGP4LN/1.png" alt="Logo" height="200"></span>
-  <span><img src="https://i.ibb.co/2NmTVFp/3.png" alt="Logo" height="200"></span>
-  <span><img src="https://i.ibb.co/7KFcXkw/2.png" alt="Logo" height="200"></span>
-  <span><img src="https://i.ibb.co/6Z56W2B/4.png" alt="Logo" height="200"></span>
+<span><img src="https://i.ibb.co/6RGP4LN/1.png" alt="Logo" height="200"></span>
+<span><img src="https://i.ibb.co/2NmTVFp/3.png" alt="Logo" height="200"></span>
+<span><img src="https://i.ibb.co/7KFcXkw/2.png" alt="Logo" height="200"></span>
+<span><img src="https://i.ibb.co/6Z56W2B/4.png" alt="Logo" height="200"></span>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- GETTING STARTED -->
+
 ## Getting Started
 
 ### Prerequisites
-* Windows 10 or more.
+
+- Windows 10 or more.
 
 ### Installation
 
@@ -114,14 +106,13 @@ When running the installer of MonTally application, you may encounter a message 
 
 This message is a standard security caution, and by following these steps, you can confidently launch the MonTally application.
 
-  <span><img src="https://i.ibb.co/7KR1hSg/wdf1.png" alt="Logo" height="300"></span>
-  <span><img src="https://i.ibb.co/4PtBMWp/wdf2.png" alt="Logo" height="300"></span>
+<span><img src="https://i.ibb.co/7KR1hSg/wdf1.png" alt="Logo" height="300"></span>
+<span><img src="https://i.ibb.co/4PtBMWp/wdf2.png" alt="Logo" height="300"></span>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- USAGE EXAMPLES -->
+
 ## Usage
 
 MonTally is designed to be flexible and user-friendly. Here's a simple guide on how to use it:
@@ -139,13 +130,12 @@ MonTally is designed to be flexible and user-friendly. Here's a simple guide on 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 ## Known Bugs
 
 Despite its robust functionality, MonTally may encounter certain issues. Here is a list of known bugs and possible solutions:
 
 1. **Issue:** Doesn't detect Pokémon on other screens.
+
    - **Solution:** Play Pokémon on the main screen to ensure accurate detection.
 
 2. **Issue:** Incorrect Pokémon Count
@@ -156,14 +146,12 @@ Please note that we are continuously working to improve the application and addr
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-
-
-
 <!-- ROADMAP -->
+
 ## Roadmap
+
 Key Features:
+
 - [x] Pokémon encounter tracking.
 - [x] Shiny odds estimation.
 - [x] Versatile Scenario Detection.
@@ -195,16 +183,17 @@ Key Features:
   - [x] General counter reset option, resetting all statistics.
 - [x] Pokémon Image Options:
   - [x] Added the option to use Pokémon images locally or from the API.
-
-
+- [x] Customizable.
+  - [x] Custom colors
+  - [x] Custom sprites
+- [x] Data Reset Option.
 
 See the [open issues](https://github.com/ZeroxyDev/montally/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- CONTRIBUTING -->
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -214,18 +203,16 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- LICENSE -->
+
 ## License
 
 Distributed under the Apache License 2.0 License. See `LICENSE.md` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- CONTACT -->
+
 ## Contact
 
 ZeroxyDev - [@ZeroxyDev](https://twitter.com/ZeroxyDev)
@@ -234,29 +221,26 @@ Project Link: [https://github.com/ZeroxyDev/montally](https://github.com/ZeroxyD
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- ACKNOWLEDGMENTS -->
+
 ## Acknowledgments
 
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
-* [PokeAPI](https://github.com/PokeAPI/pokeapi)
-* [Bulbagarden](https://archives.bulbagarden.net/wiki/Category:Shuffle_icons)
-
+- [Choose an Open Source License](https://choosealicense.com)
+- [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+- [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
+- [Malven's Grid Cheatsheet](https://grid.malven.co/)
+- [Img Shields](https://shields.io)
+- [GitHub Pages](https://pages.github.com)
+- [Font Awesome](https://fontawesome.com)
+- [React Icons](https://react-icons.github.io/react-icons/search)
+- [PokeAPI](https://github.com/PokeAPI/pokeapi)
+- [Bulbagarden](https://archives.bulbagarden.net/wiki/Category:Shuffle_icons)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [contributors-shield]: https://img.shields.io/github/contributors/ZeroxyDev/montally.svg?style=for-the-badge
 [contributors-url]: https://github.com/ZeroxyDev/montally/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/ZeroxyDev/montally.svg?style=for-the-badge
@@ -287,4 +271,4 @@ Project Link: [https://github.com/ZeroxyDev/montally](https://github.com/ZeroxyD
 [Tailwind.com]: https://img.shields.io/badge/Tailwind-ffffff?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8
 [Tailwind-url]: https://tailwindcss.com/
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
+[JQuery-url]: https://jquery.com
