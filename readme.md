@@ -76,10 +76,10 @@ Feel free to contribute to the project with suggestions, or ideas!
 
 Preview of `MonTally`:
 
-<span><img src="https://i.ibb.co/6RGP4LN/1.png" alt="Logo" height="200"></span>
-<span><img src="https://i.ibb.co/2NmTVFp/3.png" alt="Logo" height="200"></span>
-<span><img src="https://i.ibb.co/7KFcXkw/2.png" alt="Logo" height="200"></span>
-<span><img src="https://i.ibb.co/6Z56W2B/4.png" alt="Logo" height="200"></span>
+<span><img src="https://i.ibb.co/Qcz3NVX/1.png" alt="Logo" height="200"></span>
+<span><img src="https://i.ibb.co/1G5bhwb/2.png" alt="Logo" height="200"></span>
+<span><img src="https://i.ibb.co/GPC7Nsr/3.png" alt="Logo" height="200"></span>
+<span><img src="https://i.ibb.co/VLLLBkv/4.png" alt="Logo" height="200"></span>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
