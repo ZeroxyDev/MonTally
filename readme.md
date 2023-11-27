@@ -124,9 +124,10 @@ MonTally is designed to be flexible and user-friendly. Here's a simple guide on 
    - **Manual Mode:** Users can select specific Pokémon to track, providing more control over the counting process.
 3. Ensure that the game is running, and there are no obstructions blocking Pokémon names.
 4. For the best experience in games like PokeMMO, consider the following recommendation:
-   - Go to the game settings.
-   - Navigate to Interface settings.
-   - Enable "Always Show Battle HUD" to ensure MonTally can accurately detect and log Pokémon during battles.
+   - In the game settings, go to Interface settings.
+   - Enable "Always Show Battle HUD" to ensure accurate Pokémon detection and logging during battles.
+   - In the game settings, go to Video settings.
+   - Disable "Show Battle Background" to ensure accurate Pokémon detection and logging during battles.
 5. Begin seamlessly counting and tracking your Pokémon encounters!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
