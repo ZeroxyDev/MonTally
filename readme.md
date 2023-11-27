@@ -206,9 +206,23 @@ See the [open issues](https://github.com/ZeroxyDev/montally/issues) for a full l
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 If you have a suggestion that would make this better, please open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- DONATE -->
+
+## Support MonTally Development
+
+MonTally is fueled by the passion of supporters like you. Your donations go a long way in fueling ongoing improvements and innovations.
+
+If you've found value in MonTally or appreciate the time and effort invested, I invite you to consider making a donation. Every contribution, big or small, helps me enhance and refine MonTally for a better experience.
+
+Don't forget to show some love by starring this project! Your support is highly appreciated and motivates me to keep pushing MonTally to new heights.
+
+[Support MonTally development here](https://ko-fi.com/zeroxydev)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- LICENSE -->
 
