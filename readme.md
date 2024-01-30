@@ -21,6 +21,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![Apache License 2.0][license-shield]][license-url]
+[![Downloads][downloads-shield]][downloads-url]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -265,6 +266,8 @@ Project Link: [https://github.com/ZeroxyDev/montally](https://github.com/ZeroxyD
 
 [contributors-shield]: https://img.shields.io/github/contributors/ZeroxyDev/montally.svg?style=for-the-badge
 [contributors-url]: https://github.com/ZeroxyDev/montally/graphs/contributors
+[downloads-shield]: https://img.shields.io/github/downloads/zeroxydev/montally/total?color=%2331c754&label=Downloads&logoColor=%23ffffff&style=for-the-badge
+[downloads-url]: https://img.shields.io/github/downloads/zeroxydev/montally/total?color=%2331c754&label=Downloads&logoColor=%23ffffff&style=for-the-badge
 [forks-shield]: https://img.shields.io/github/forks/ZeroxyDev/montally.svg?style=for-the-badge
 [forks-url]: https://github.com/ZeroxyDev/montally/network/members
 [stars-shield]: https://img.shields.io/github/stars/ZeroxyDev/montally.svg?style=for-the-badge
