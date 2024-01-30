@@ -267,7 +267,7 @@ Project Link: [https://github.com/ZeroxyDev/montally](https://github.com/ZeroxyD
 [contributors-shield]: https://img.shields.io/github/contributors/ZeroxyDev/montally.svg?style=for-the-badge
 [contributors-url]: https://github.com/ZeroxyDev/montally/graphs/contributors
 [downloads-shield]: https://img.shields.io/github/downloads/zeroxydev/montally/total?color=%2331c754&label=Downloads&logoColor=%23ffffff&style=for-the-badge
-[downloads-url]: https://img.shields.io/github/downloads/zeroxydev/montally/total?color=%2331c754&label=Downloads&logoColor=%23ffffff&style=for-the-badge
+[downloads-url]: https://github.com/ZeroxyDev/MonTally/releases/latest
 [forks-shield]: https://img.shields.io/github/forks/ZeroxyDev/montally.svg?style=for-the-badge
 [forks-url]: https://github.com/ZeroxyDev/montally/network/members
 [stars-shield]: https://img.shields.io/github/stars/ZeroxyDev/montally.svg?style=for-the-badge
