@@ -248,14 +248,7 @@ Project Link: [https://github.com/ZeroxyDev/montally](https://github.com/ZeroxyD
 
 ## Acknowledgments
 
-- [Choose an Open Source License](https://choosealicense.com)
-- [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-- [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-- [Malven's Grid Cheatsheet](https://grid.malven.co/)
 - [Img Shields](https://shields.io)
-- [GitHub Pages](https://pages.github.com)
-- [Font Awesome](https://fontawesome.com)
-- [React Icons](https://react-icons.github.io/react-icons/search)
 - [PokeAPI](https://github.com/PokeAPI/pokeapi)
 - [Bulbagarden](https://archives.bulbagarden.net/wiki/Category:Shuffle_icons)
 
