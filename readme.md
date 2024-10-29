@@ -127,12 +127,7 @@ MonTally is designed to be flexible and user-friendly. Here's a simple guide on 
 
 3. Go to **Settings** and select **"Select Capture Area"**. Position the capture area so it encloses the region where Pokémon names appear during battles. Be sure to include enough space to account for horde battles, where multiple Pokémon names might appear on the screen.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/aac4637c-73e2-46fc-9164-54955bde9c9f" alt="settings" width="25%" />
-  <img src="https://github.com/user-attachments/assets/e3df46f3-fde3-4c2e-9c74-5c5cfa1cc91b" alt="capture" width="70%" />
-</p>
-
-
+![capturesettings](https://github.com/user-attachments/assets/6e92993e-bfeb-47e8-b46a-c998ee074cf7)
 
 4. Ensure that the game is running, and there are no obstructions blocking Pokémon names.
 
