@@ -30,6 +30,8 @@
     <a href="https://github.com/ZeroxyDev/montally/issues">Report Bug</a>
     ·
     <a href="https://github.com/ZeroxyDev/montally/issues">Request Feature</a>
+    ·
+    <a href="discord.gg/ByuAz2uBG8">Discord</a>
   </p>
 </div>
 
