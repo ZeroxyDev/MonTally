@@ -31,7 +31,7 @@
     ·
     <a href="https://github.com/ZeroxyDev/montally/issues">Request Feature</a>
     ·
-    <a href="discord.gg/ByuAz2uBG8">Discord</a>
+    <a href="https://discord.gg/ByuAz2uBG8">Discord</a>
   </p>
 </div>
 
