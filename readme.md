@@ -53,6 +53,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
+    <li><a href="#customization">Customization</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -158,6 +159,52 @@ Please note that we are continuously working to improve the application and addr
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- CUSTOMIZATION -->
+
+## Customization
+
+MonTally allows you to fully customize the look of your tracker with custom images. Follow this guide to design your own unique visuals using the provided resources.
+
+## 🖼️ Image Specifications
+
+To ensure proper integration in MonTally, custom assets must match the following dimensions:
+
+- **Border Image**: `350x109 px`
+- **Main Image**: `215x199 px`
+
+These sizes are required to maintain alignment and avoid layout issues.
+
+## 🧩 Customization Template
+
+Use the following resources to create your custom visuals:
+
+- [customization.psd](https://github.com/ZeroxyDev/MonTally/blob/main/assets/images/customization/customization.psd) — Photoshop file with guides and layers for precise editing.  
+- [frame-border.png](https://github.com/ZeroxyDev/MonTally/blob/main/assets/images/customization/frame-border.png) — Default border example.  
+- [frame-image.png](https://github.com/ZeroxyDev/MonTally/blob/main/assets/images/customization/frame-image.png) — Default main image example.
+
+Open the PSD in Photoshop (or a compatible editor), customize the content, and export your assets in `.png` format with the exact sizes mentioned above.
+
+## 🧪 Visual Guide
+
+<span><img src="https://github.com/ZeroxyDev/MonTally/blob/main/assets/images/tutorials/custom-c-customize.png" width="30%" /></span>
+<span><img src="https://github.com/ZeroxyDev/MonTally/blob/main/assets/images/tutorials/custom-c-settings.png" width="30%" /></span>
+<span><img src="https://github.com/ZeroxyDev/MonTally/blob/main/assets/images/tutorials/custom-c.png" width="30%" /></span>
+
+These visuals demonstrate both the creation process and the in-app appearance.
+
+## ✅ Tips for Best Results
+
+- Keep your designs clean and visually balanced.
+- PNG format is recommended for transparency and quality.
+- Always match the exact dimensions to avoid UI misalignment.
+- Test your design within MonTally to ensure correct placement.
+
+---
+
+With these tools and guidelines, you can easily bring your own visual style to MonTally. Happy customizing!
+
+
+
 <!-- ROADMAP -->
 
 ## Roadmap
@@ -188,6 +235,7 @@ Key Features:
   - [x] Debug mode added for easier issue identification.
 - [x] ON/OFF Mode:
   - [x] ON/OFF mode introduced for customizable functionality.
+- [x] Edit enounters
 - [x] Reset Counters:
   - [x] Reset counters for each Pokémon upon opening.
   - [x] Persistent Shiny ratio in each Pokémon (unless the general counter is reset).
@@ -198,6 +246,7 @@ Key Features:
 - [x] Customizable.
   - [x] Custom colors
   - [x] Custom sprites
+  - [x] Custom images in total encounters
 - [x] Data Reset Option.
 
 See the [open issues](https://github.com/ZeroxyDev/montally/issues) for a full list of proposed features (and known issues).
