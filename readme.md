@@ -10,7 +10,6 @@
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Donate][donate-shield]][donate-url]
-[![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![Apache License 2.0][license-shield]][license-url]
