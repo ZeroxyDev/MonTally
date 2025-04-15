@@ -9,6 +9,7 @@
 -->
 
 [![Contributors][contributors-shield]][contributors-url]
+[![Donate][donate-shield]][donate-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
@@ -342,3 +343,6 @@ Project Link: [https://github.com/ZeroxyDev/montally](https://github.com/ZeroxyD
 [Tailwind-url]: https://tailwindcss.com/
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com
+[donate-shield]: https://img.shields.io/badge/$-donate-ff69b4.svg?style=for-the-badge
+[donate-url]: https://ko-fi.com/zeroxydev
+
