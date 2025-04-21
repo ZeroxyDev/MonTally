@@ -155,6 +155,10 @@ Despite its robust functionality, MonTally may encounter certain issues. Here is
 
    - **Description:** MonTally is erroneously detecting Pokémon when browsing Pokémon in the backpack or other locations.
    - **Solution:** Temporarily disable the counter in the settings during these specific moments. Alternatively, consider not placing Pokémon in the upper half of the screen.
+   
+4. **Issue:** "Always on Top" mode not working in borderless windowed mode (e.g., in PokeMMO).  
+   - **Description:** When running games in borderless windowed mode, such as PokeMMO, MonTally’s *Always on Top* functionality may not behave as expected and can fail to stay above the game window.  
+   - **Solution:** Change the game’s graphics API to a more compatible one, such as *ANGLE* or *DirectX*. This can usually be adjusted in the advanced graphics settings of the game.
 
 
 Please note that we are continuously working to improve the application and address these issues. If you come across any additional bugs, feel free to report them so that we can continue enhancing the MonTally experience.
