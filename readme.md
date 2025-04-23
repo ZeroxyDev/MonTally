@@ -176,7 +176,7 @@ MonTally allows you to fully customize the look of your tracker with custom imag
 To ensure proper integration in MonTally, custom assets must match the following dimensions:
 
 - **Border Image**: `350x109 px`
-- **Main Image**: `215x199 px`
+- **Main Image**: `500x500 px`
 
 These sizes are required to maintain alignment and avoid layout issues.
 
