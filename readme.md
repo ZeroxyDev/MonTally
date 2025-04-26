@@ -89,10 +89,13 @@ Preview of `MonTally`:
 ### Prerequisites
 
 - Windows 10 or more.
+- Linux distributions capable of running AppImage files.
 
 ### Installation
 
-1. Download MonTally from [here](https://github.com/ZeroxyDev/montally/releases).
+#### Windows
+
+1. Download MonTally from [here][downloads-url].
 2. Navigate to the settings and configure MonTally according to your preferences.
 3. Open your PokéMMO or Pokémon Revolution Online game.
 4. Ensure that you are using Windows 10 or a later version.
@@ -107,6 +110,30 @@ This message is a standard security caution, and by following these steps, you c
 
 <span><img src="https://i.ibb.co/7KR1hSg/wdf1.png" alt="Logo" height="300"></span>
 <span><img src="https://i.ibb.co/4PtBMWp/wdf2.png" alt="Logo" height="300"></span>
+
+#### 🐧 Linux
+
+1. Download the `mon-tally_x.x.x_amd64.AppImage` file from [here][downloads-url] (where x.x.x represents the latest available version).
+2. Make the AppImage executable using one of these methods:
+   - From the terminal:
+     ```bash
+     chmod +x mon-tally_x.x.x_amd64.AppImage
+     ```
+   - Or using the file manager:
+     - Right-click the file
+     - Select Properties
+     - Go to the Permissions tab
+     - Enable "Allow executing file as a program"
+
+3. Run MonTally by:
+   - Double-clicking the AppImage file in your file manager
+   - Or from the terminal:
+     ```bash
+     ./mon-tally_x.x.x_amd64.AppImage
+     ```
+
+4. Navigate to the settings and configure MonTally according to your preferences.
+5. Open your PokéMMO or Pokémon Revolution Online game.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -157,8 +184,8 @@ Despite its robust functionality, MonTally may encounter certain issues. Here is
    - **Solution:** Temporarily disable the counter in the settings during these specific moments. Alternatively, consider not placing Pokémon in the upper half of the screen.
    
 4. **Issue:** "Always on Top" mode not working in borderless windowed mode (e.g., in PokeMMO).  
-   - **Description:** When running games in borderless windowed mode, such as PokeMMO, MonTally’s *Always on Top* functionality may not behave as expected and can fail to stay above the game window.  
-   - **Solution:** Change the game’s graphics API to a more compatible one, such as *ANGLE* or *DirectX*. This can usually be adjusted in the advanced graphics settings of the game.
+   - **Description:** When running games in borderless windowed mode, such as PokeMMO, MonTally's *Always on Top* functionality may not behave as expected and can fail to stay above the game window.  
+   - **Solution:** Change the game's graphics API to a more compatible one, such as *ANGLE* or *DirectX*. This can usually be adjusted in the advanced graphics settings of the game.
 
 
 Please note that we are continuously working to improve the application and address these issues. If you come across any additional bugs, feel free to report them so that we can continue enhancing the MonTally experience.
