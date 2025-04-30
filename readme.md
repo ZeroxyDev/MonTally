@@ -160,6 +160,8 @@ MonTally is designed to be flexible and user-friendly. Here's a simple guide on 
    - Enable **"Always Show Battle HUD"** to ensure accurate Pokémon detection and logging during battles.
    - In the game settings, go to **Video settings**.
    - Disable **"Show Battle Background"** to avoid distractions that could interfere with Pokémon detection and logging.
+   - For optimal Pokémon detection in PokeMMO, I highly recommend installing the [MonTally OCR Optimizer Mod](https://github.com/ZeroxyDev/montally-optimizerOCR-mod/releases/latest). This mod significantly improves detection accuracy.
+   - To prevent miscounting, I recommend giving nicknames to your Pokémon. This helps MonTally distinguish between wild encounters and your own Pokémon.
 
 6. Begin seamlessly counting and tracking your Pokémon encounters!
 
