@@ -70,6 +70,8 @@
 
 MonTally allows you to keep track of your Pokémon encounters and provides an estimate of shiny odds. Whether you're playing PokéMMO or Pokémon Revolution Online, MonTally simplifies the counting experience.
 
+MonTally now supports **Windows**, **Linux**, and **macOS**, and also includes native **PokeMMO integration** with profiles and real-time sync options.
+
 Feel free to contribute to the project with suggestions, or ideas!
 
 Preview of `MonTally`:
@@ -88,14 +90,15 @@ Preview of `MonTally`:
 
 ### Prerequisites
 
-- Windows 10 or more.
+- Windows 10 or later.
 - Linux distributions capable of running AppImage files.
+- macOS compatible with the current MonTally build.
 
 ### Installation
 
 #### Windows
 
-1. Download MonTally from [here][downloads-url].
+1. Download MonTally from [here](https://github.com/ZeroxyDev/montally/releases).
 2. Navigate to the settings and configure MonTally according to your preferences.
 3. Open your PokéMMO or Pokémon Revolution Online game.
 4. Ensure that you are using Windows 10 or a later version.
@@ -135,6 +138,22 @@ This message is a standard security caution, and by following these steps, you c
 4. Navigate to the settings and configure MonTally according to your preferences.
 5. Open your PokéMMO or Pokémon Revolution Online game.
 
+#### 🍎 macOS
+
+1. Download the macOS `.dmg` build from [here][downloads-url].
+2. Open the downloaded `.dmg` file.
+3. Drag `MonTally.app` into your `Applications` folder.
+4. Try opening the app normally, or use right-click → `Open` if macOS blocks it.
+5. If macOS still says the app is damaged, open Terminal and run:
+
+   ```bash
+   xattr -dr com.apple.quarantine /Applications/MonTally.app
+   ```
+
+6. Open `MonTally.app` again from `Applications`.
+
+> Note: current macOS builds may trigger Gatekeeper warnings because they are not notarized yet.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
@@ -159,11 +178,21 @@ MonTally is designed to be flexible and user-friendly. Here's a simple guide on 
    - In the game settings, go to **Interface settings**.
    - Enable **"Always Show Battle HUD"** to ensure accurate Pokémon detection and logging during battles.
    - In the game settings, go to **Video settings**.
-   - Disable **"Show Battle Background"** to avoid distractions that could interfere with Pokémon detection and logging. (you can enable if you are using [MonTally OCR Optimizer Mod](https://github.com/ZeroxyDev/montally-optimizerOCR-mod/releases/latest))
-   - For optimal Pokémon detection in PokeMMO, I highly recommend installing the [MonTally OCR Optimizer Mod](https://github.com/ZeroxyDev/montally-optimizerOCR-mod/releases/latest). This mod significantly improves detection accuracy.
-   - To prevent miscounting, I recommend giving nicknames to your Pokémon. This helps MonTally distinguish between wild encounters and your own Pokémon.
+   - Disable **"Show Battle Background"** to avoid distractions that could interfere with Pokémon detection and logging.
 
 6. Begin seamlessly counting and tracking your Pokémon encounters!
+
+### PokeMMO Native Integration
+
+MonTally also supports a native PokeMMO integration flow:
+
+1. Open **Settings** and switch to the **PokeMMO** profile.
+2. Click **Connect PokeMMO** to launch or reconnect the game through MonTally.
+3. Enter the game and load your character.
+4. Use **Sync with PokeMMO** if you want to import your current tracker data into the active profile.
+5. Optionally enable **Match PokeMMO in real time** if you want MonTally to fully mirror PokeMMO tracker data.
+
+This workflow is recommended when you want stricter real-time sync and profile-based separation for PokeMMO hunts.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -172,9 +201,9 @@ MonTally is designed to be flexible and user-friendly. Here's a simple guide on 
 
 Despite its robust functionality, MonTally may encounter certain issues. Here is a list of known bugs and possible solutions:
 
-1. **Issue:** Doesn't detect Pokémon on other screens.
+1. **Issue:** Detection becomes incorrect after moving the game to another monitor.
 
-   - **Solution:** Play Pokémon on the main screen to ensure accurate detection.
+   - **Solution:** Re-open **Select Capture Area** and save the area again after moving the game window. MonTally supports multiple monitors, but the capture area must match the monitor where the game is currently running.
 
 2. **Issue:** Incorrect Pokémon Count
    - **Description:** The MonTally application occasionally exhibits inaccurate counts, especially during initial usage. The counts may either be higher or lower than the actual number of Pokémon encountered.
@@ -379,4 +408,3 @@ Project Link: [https://github.com/ZeroxyDev/montally](https://github.com/ZeroxyD
 [JQuery-url]: https://jquery.com
 [donate-shield]: https://img.shields.io/badge/$-donate-ff69b4.svg?style=for-the-badge
 [donate-url]: https://ko-fi.com/zeroxydev
-
