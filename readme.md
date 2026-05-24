@@ -93,7 +93,7 @@ Preview of `MonTally`:
 - Windows 10 or later.
 - Linux distributions capable of running AppImage files.
 - macOS compatible with the current MonTally build.
-- Java 21 SDK or newer is recommended if you want to use MonTally's native PokeMMO integration.
+- Java 21 JDK or newer is recommended if you want to use MonTally's native PokeMMO integration.
   - Official Oracle JDK 21 download: https://www.oracle.com/java/technologies/downloads/#java21
 
 ### Installation
